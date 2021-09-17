@@ -29,10 +29,10 @@ Excel file: IVs of WT and variant EAAT2s with internal glutamate and external ch
 
 <b>[Figure 5 - dataset 1](../master/Anion_currents_P289R_Cl.xlsx)</b> 
 
-Excel files: Anion currents of WT and P289R hEAAT2 with internal and external chloride
+Excel file: Anion currents of WT and P289R hEAAT2 with internal and external chloride
 
 
 ### Supplementary datasets
 <b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)
 
-Excel files: Anion currents of WT and variant EAAT2s (G82R, L85P) with internal and external chloride in LRCC8a KO HEK293T cells
+Excel file: Anion currents of WT and variant EAAT2s (G82R, L85P) with internal and external chloride in LRCC8a KO HEK293T cells
