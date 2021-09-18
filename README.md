@@ -25,7 +25,7 @@ Excel file: Correlations of single cell fluorescences and whole cell currents fr
 
 <b>[Figure 4 - dataset 1](../master/Glutamate_Permeability.xlsx)</b>
 
-Excel file: IVs of WT and variant EAAT2s with internal glutamate and external Cl<sup>-</sup> as main anions
+Excel file: IVs of WT and variant EAAT2's with internal glutamate and external Cl<sup>-</sup> as main anions
 
 <b>[Figure 5 - dataset 1](../master/Anion_currents_P289R_Cl.xlsx)</b> 
 
