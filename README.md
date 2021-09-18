@@ -17,7 +17,7 @@ Excel file: Glutamate uptake currents of WT and variant EAAT2s
 [Figure 3 - dataset 2](../master/Anion_currents_G82R_Cl.xlsx) /
 [Figure 3 - dataset 3](../master/Anion_currents_L85P_Cl.xlsx)</b>
 
-Excel files: Anion currents of WT and variant EAAT2s (G82R, L85P) with internal and external chloride
+Excel files: Anion currents of WT and variant EAAT2s (G82R, L85P) with internal and external Cl<sup>-</sup>
 
 <b>[Figure 3 - dataset 5](../master/Current_vs_Fluo.xlsx)</b>
 
@@ -25,7 +25,7 @@ Excel file: Correlations of single cell fluorescences and whole cell currents fr
 
 <b>[Figure 4 - dataset 1](../master/Glutamate_Permeability.xlsx)</b>
 
-Excel file: IVs of WT and variant EAAT2s with internal glutamate and external chloride as main anions
+Excel file: IVs of WT and variant EAAT2s with internal glutamate and external Cl<sup>-</sup> as main anions
 
 <b>[Figure 5 - dataset 1](../master/Anion_currents_P289R_Cl.xlsx)</b> 
 
@@ -33,6 +33,6 @@ Excel file: Anion currents of WT and P289R hEAAT2 with internal and external chl
 
 
 ### Supplementary datasets
-<b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)
+<b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)</b>
 
 Excel file: Anion currents of WT and variant EAAT2s (G82R, L85P) with internal and external chloride in LRCC8a KO HEK293T cells
