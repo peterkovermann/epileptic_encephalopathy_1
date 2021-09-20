@@ -36,7 +36,7 @@ Excel file: Anion currents of WT and P289R <i>h</i>EAAT2 with internal and exter
 
 <b>[Supplementary Figure S1](../master/Glycolysation.xlsx)</b>
 
-Excel file: Transfection efficiencies and resulting protein expressions are provided in 'Figure 1 - dataset 2'
+Excel file: Transfection efficiencies and resulting protein expressions are provided in '<i>Figure 1 - dataset 2</i>'
 
 <b>[Supplementary Figure S1](../master/Glutamate_Uptake.xlsx)</b>
 
