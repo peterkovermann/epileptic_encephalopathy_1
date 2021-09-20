@@ -44,7 +44,7 @@ Excel file: Gluconate currents are provided in 'Figure 2 - dataset 1'
 
 <b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)</b>
 
-Excel file: Anion currents of variant EAAT2's (G82R, L85P) with internal and external chloride in LRCC8a KO HEK293T cells
+Excel file: Anion currents of variant EAAT2's (G82R, L85P) with internal and external Cl<sup>-</sup> in LRCC8a KO HEK293T cells
 
 <b>[Supplementary Figure S4](../master/Reversal_potentials_S4.xlsx)</b>
 
