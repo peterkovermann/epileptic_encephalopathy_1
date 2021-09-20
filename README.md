@@ -33,6 +33,19 @@ Excel file: Anion currents of WT and P289R <i>h</i>EAAT2 with internal and exter
 
 
 ### Supplementary datasets
+
+<b>[Supplementary Figure S1](../master/Glycolysation.xlsx)</b>
+
+Excel file: Transfection efficiencies and resulting protein expressions are provided in 'Figure 1 - dataset 2'
+
+<b>[Supplementary Figure S1](../master/Glutamate_Uptake.xlsx)</b>
+
+Excel file: Gluconate currents are provided in 'Figure 2 - dataset 1'
+
 <b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)</b>
 
 Excel file: Anion currents of variant EAAT2's (G82R, L85P) with internal and external chloride in LRCC8a KO HEK293T cells
+
+<b>[Supplementary Figure S4](../master/Reversal_potentials_S4.xlsx)</b>
+
+Excel file: List of reversal potentials for bar graph in Supplementary Figure S4
