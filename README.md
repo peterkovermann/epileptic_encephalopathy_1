@@ -40,7 +40,7 @@ Excel file: Transfection efficiencies and resulting protein expressions are prov
 
 <b>[Supplementary Figure S1](../master/Glutamate_Uptake.xlsx)</b>
 
-Excel file: Gluconate currents are provided in 'Figure 2 - dataset 1'
+Excel file: Gluconate currents are provided in '<i>Figure 2 - dataset 1</i>'
 
 <b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)</b>
 
