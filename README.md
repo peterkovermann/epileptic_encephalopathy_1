@@ -5,7 +5,7 @@
 
 Excel file: Membrane fluorescences of WT and variant EAAT2's.
 
-<b>[Figure 1 - dataset 2](../master/Glycolysation.xlsx)</b>
+<b>[Figure 1 - dataset 2](../master/Glycosylation.xlsx)</b>
 
 Excel file: Glykosylation ratios, protein expression, and transfection efficiencies.
 
