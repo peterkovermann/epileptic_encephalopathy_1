@@ -11,7 +11,7 @@ Excel file: Glykosylation ratios, protein expression, and transfection efficienc
 
 <b>[Figure 2 - dataset 1](../master/Glutamate_Uptake.xlsx)</b>
 
-Excel file: L-glutamate uptake currents of WT and variant EAAT2's.
+Excel file: L-glutamate uptake currents of WT and variant EAAT2's with D-gluconate currents.
 
 <b>[Figure 3 - dataset 1 (WT)](../master/Anion_currents_WT_Cl.xlsx) /
 [Figure 3 - dataset 2 (G82R)](../master/Anion_currents_G82R_Cl.xlsx) /
