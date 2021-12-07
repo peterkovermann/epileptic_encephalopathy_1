@@ -38,14 +38,10 @@ Excel file: Anion currents of WT and P289R <i>h</i>EAAT2 with internal and exter
 
 Excel file: Transfection efficiencies and resulting protein expressions are provided in '<i>Figure 1 - dataset 2</i>'.
 
-<b>[Supplementary Figure S1](../master/Glutamate_Uptake.xlsx)</b>
+<b>[Supplementary Figure S2](../master/Uptake_curr_Urev_gluc.xlsx)</b>
 
-Excel file: D-gluconate currents are provided in '<i>Figure 2 - dataset 1</i>'.
+Excel file: Glutamate uptake currents at the reversal potential of D-gluconate.
 
-<b>[Supplementary Figure S3](../master/Anion_currents_hEAAT2_variants_Cl_in_LRCC8a.xlsx)</b>
-
-Excel file: Anion currents of variant EAAT2's (G82R, L85P) with internal and external Cl<sup>-</sup> in LRCC8a KO HEK293T cells.
-
-<b>[Supplementary Figure S4](../master/Reversal_potentials_S4.xlsx)</b>
+<b>[Supplementary Figure S3](../master/Reversal_potentials_S3.xlsx)</b>
 
 Excel file: Lists of reversal potentials with external Cl<sup>-</sup> and internal D-gluconate or L-glutamate.
